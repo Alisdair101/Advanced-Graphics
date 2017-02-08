@@ -1,0 +1,42 @@
+﻿  Application.cpp
+e:\university\advanced graphics and real-time rendering semester 1\framework\advanced graphics application\advanced-graphics\application.cpp(1400): warning C4458: declaration of '_pLights' hides class member
+  e:\university\advanced graphics and real-time rendering semester 1\framework\advanced graphics application\advanced-graphics\application.h(114): note: see declaration of 'Application::_pLights'
+e:\university\advanced graphics and real-time rendering semester 1\framework\advanced graphics application\advanced-graphics\application.cpp(1442): warning C4238: nonstandard extension used: class rvalue used as lvalue
+e:\university\advanced graphics and real-time rendering semester 1\framework\advanced graphics application\advanced-graphics\application.cpp(1443): warning C4238: nonstandard extension used: class rvalue used as lvalue
+e:\university\advanced graphics and real-time rendering semester 1\framework\advanced graphics application\advanced-graphics\application.cpp(1467): warning C4389: '==': signed/unsigned mismatch
+e:\university\advanced graphics and real-time rendering semester 1\framework\advanced graphics application\advanced-graphics\application.cpp(1580): warning C4244: '=': conversion from 'UINT' to 'float', possible loss of data
+e:\university\advanced graphics and real-time rendering semester 1\framework\advanced graphics application\advanced-graphics\application.cpp(1581): warning C4244: '=': conversion from 'UINT' to 'float', possible loss of data
+  Camera.cpp
+e:\university\advanced graphics and real-time rendering semester 1\framework\advanced graphics application\advanced-graphics\camera.cpp(26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\university\advanced graphics and real-time rendering semester 1\framework\advanced graphics application\advanced-graphics\camera.cpp(27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  DDSTextureLoader.cpp
+  Main.cpp
+e:\university\advanced graphics and real-time rendering semester 1\framework\advanced graphics application\advanced-graphics\main.cpp(12): warning C4244: 'initializing': conversion from 'DWORD' to 'float', possible loss of data
+e:\university\advanced graphics and real-time rendering semester 1\framework\advanced graphics application\advanced-graphics\main.cpp(58): warning C4244: 'initializing': conversion from 'clock_t' to 'float', possible loss of data
+e:\university\advanced graphics and real-time rendering semester 1\framework\advanced graphics application\advanced-graphics\main.cpp(62): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+e:\university\advanced graphics and real-time rendering semester 1\framework\advanced graphics application\advanced-graphics\main.cpp(65): warning C4244: '+=': conversion from 'float' to 'clock_t', possible loss of data
+e:\university\advanced graphics and real-time rendering semester 1\framework\advanced graphics application\advanced-graphics\main.cpp(70): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\university\advanced graphics and real-time rendering semester 1\framework\advanced graphics application\advanced-graphics\main.cpp(72): warning C4244: '=': conversion from 'float' to 'clock_t', possible loss of data
+e:\university\advanced graphics and real-time rendering semester 1\framework\advanced graphics application\advanced-graphics\main.cpp(12): warning C4189: 'frameProcessingTime': local variable is initialized but not referenced
+  GameObject.cpp
+e:\university\advanced graphics and real-time rendering semester 1\framework\advanced graphics application\advanced-graphics\gameobject.cpp(27): warning C4100: 't': unreferenced formal parameter
+  RenderProcess.cpp
+e:\university\advanced graphics and real-time rendering semester 1\framework\advanced graphics application\advanced-graphics\renderprocess.cpp(7): warning C4244: '=': conversion from 'float' to 'UINT', possible loss of data
+e:\university\advanced graphics and real-time rendering semester 1\framework\advanced graphics application\advanced-graphics\renderprocess.cpp(8): warning C4244: '=': conversion from 'float' to 'UINT', possible loss of data
+e:\university\advanced graphics and real-time rendering semester 1\framework\advanced graphics application\advanced-graphics\renderprocess.cpp(37): warning C4100: 'szPSFileName': unreferenced formal parameter
+e:\university\advanced graphics and real-time rendering semester 1\framework\advanced graphics application\advanced-graphics\renderprocess.cpp(335): warning C4018: '<': signed/unsigned mismatch
+e:\university\advanced graphics and real-time rendering semester 1\framework\advanced graphics application\advanced-graphics\renderprocess.cpp(343): warning C4018: '<': signed/unsigned mismatch
+e:\university\advanced graphics and real-time rendering semester 1\framework\advanced graphics application\advanced-graphics\renderprocess.cpp(351): warning C4018: '<': signed/unsigned mismatch
+  RenderToTextureProcess.cpp
+e:\university\advanced graphics and real-time rendering semester 1\framework\advanced graphics application\advanced-graphics\rendertotextureprocess.cpp(100): warning C4018: '<': signed/unsigned mismatch
+  SceneLight.cpp
+  TextureHandler.cpp
+  Generating Code...
+e:\university\advanced graphics and real-time rendering semester 1\framework\advanced graphics application\advanced-graphics\rendertotextureprocess.cpp(109): warning C4715: 'RenderToTextureProcess::GetShaderTargetTexture': not all control paths return a value
+e:\university\advanced graphics and real-time rendering semester 1\framework\advanced graphics application\advanced-graphics\renderprocess.cpp(269): warning C4701: potentially uninitialized local variable 'hr' used
+e:\university\advanced graphics and real-time rendering semester 1\framework\advanced graphics application\advanced-graphics\camera.cpp(105): warning C4715: 'Camera::HandleControls': not all control paths return a value
+e:\university\advanced graphics and real-time rendering semester 1\framework\advanced graphics application\advanced-graphics\application.cpp(823): warning C4715: 'Application::InitConstantBuffers': not all control paths return a value
+e:\university\advanced graphics and real-time rendering semester 1\framework\advanced graphics application\advanced-graphics\application.cpp(863): warning C4702: unreachable code
+Application.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  DX11 Framework.vcxproj -> E:\University\Advanced Graphics and Real-Time Rendering Semester 1\Framework\Advanced Graphics Application\Advanced-Graphics\Debug\DX11 Framework.exe
+  DX11 Framework.vcxproj -> E:\University\Advanced Graphics and Real-Time Rendering Semester 1\Framework\Advanced Graphics Application\Advanced-Graphics\Debug\DX11 Framework.pdb (Full PDB)
